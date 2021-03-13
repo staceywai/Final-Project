@@ -42,5 +42,5 @@ Visualizations
 5) Elbow method to choose number of clusters
 6) Color each data point by happiness score
 7) Determine trends in each cluster
-8) Linear Regression
+8) Multiple Linear Regression
 
