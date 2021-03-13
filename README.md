@@ -33,3 +33,14 @@ Hypothesis
 Conclusions...
 Visualizations
 
+## Next Steps:
+
+1) Normalize Data
+2) Run it through the correlation matrix
+3) Choose columns with correlation values > .5 or < -.5
+4) Run them through clustering
+5) Elbow method to choose number of clusters
+6) Color each data point by happiness score
+7) Determine trends in each cluster
+8) Linear Regression
+
