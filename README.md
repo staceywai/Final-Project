@@ -16,6 +16,8 @@ SKlearn Clustering Documentation - https://scikit-learn.org/stable/modules/clust
 Kmeans Clustering Intro - https://www.geeksforgeeks.org/k-means-clustering-introduction/
 Optimal Value in K - https://www.geeksforgeeks.org/ml-determine-the-optimal-value-of-k-in-k-means-clustering/?ref=rp
 Elbow Curve - https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
+SKLearn Preprocessing = https://scikit-learn.org/stable/modules/preprocessing.html
+Data Normalization - https://towardsdatascience.com/data-normalization-with-pandas-and-scikit-learn-7c1cc6ed6475
 
 ## Tasks:
 Question
