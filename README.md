@@ -11,6 +11,11 @@ Kaggle datasets pulled from GHO (Global Health Observatory) and WHO (World Healt
 World Alcohol Consumption - https://www.kaggle.com/codebreaker619/alcohol-comsumption-around-the-world
 2020 World Happiness - https://www.kaggle.com/londeen/world-happiness-report-2020
 Life Expectancy - https://www.kaggle.com/augustus0498/life-expectancy-who
+10 Clustering Algorithms - https://machinelearningmastery.com/clustering-algorithms-with-python/
+SKlearn Clustering Documentation - https://scikit-learn.org/stable/modules/clustering.html
+Kmeans Clustering Intro - https://www.geeksforgeeks.org/k-means-clustering-introduction/
+Optimal Value in K - https://www.geeksforgeeks.org/ml-determine-the-optimal-value-of-k-in-k-means-clustering/?ref=rp
+Elbow Curve - https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
 
 ## Tasks:
 Question
