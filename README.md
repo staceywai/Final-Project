@@ -8,7 +8,7 @@ Can factors x,y,z related to alcohol consumption predict happiness?
     Clusters would help define subgroups that are potentially related to happiness
 
 ## Data Sources:
-#### Kaggle datasets pulled from GHO (Global Health Observatory) and WHO (World Health Organization), GWP (Gallup World Poll):
+#### Kaggle datasets used to build our dataframes:
 * [World Alcohol Consumption](https://www.kaggle.com/codebreaker619/alcohol-comsumption-around-the-world)<br />
 * [2020 World Happiness](https://www.kaggle.com/londeen/world-happiness-report-2020)<br />
 * [Life Expectancy](https://www.kaggle.com/augustus0498/life-expectancy-who)<br />
