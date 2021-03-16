@@ -11,7 +11,7 @@ Can factors x,y,z related to alcohol consumption predict happiness?
 * [World Alcohol Consumption](https://www.kaggle.com/codebreaker619/alcohol-comsumption-around-the-world)<br />
 * [2020 World Happiness](https://www.kaggle.com/londeen/world-happiness-report-2020)<br />
 * [Life Expectancy](https://www.kaggle.com/augustus0498/life-expectancy-who)<br />
-#### Websites used for tutorials or method research
+#### Websites used for tutorials or method research:
 * [10 Clustering Algorithms](https://machinelearningmastery.com/clustering-algorithms-with-python/)<br />
 * [SKlearn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)<br />
 * [Kmeans Clustering Intro](https://www.geeksforgeeks.org/k-means-clustering-introduction/)<br />
