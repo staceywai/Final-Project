@@ -154,7 +154,6 @@ def display_parallel_coordinates(df, num_clusters):
     fig = plt.figure(figsize=(30, 15))
     title = fig.suptitle("Parallel Coordinates Plot for the Clusters", fontsize=18)
     fig.subplots_adjust(top=0.95, wspace=0)
-    plt.xticks(rotation = 45)
 
     # Display one plot for each cluster, with the lines for the main cluster appearing over the lines for the other clusters
     for i in range(num_clusters):    
