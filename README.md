@@ -7,18 +7,19 @@ Can factors x,y,z related to alcohol consumption predict happiness?
     Clusters would help define subgroups that are potentially related to happiness
 
 ## Data Sources:
-Kaggle datasets pulled from GHO (Global Health Observatory) and WHO (World Health Organization), GWP (Gallup World Poll):<br />
-World Alcohol Consumption - https://www.kaggle.com/codebreaker619/alcohol-comsumption-around-the-world<br />
-2020 World Happiness - https://www.kaggle.com/londeen/world-happiness-report-2020<br />
-Life Expectancy - https://www.kaggle.com/augustus0498/life-expectancy-who<br />
-10 Clustering Algorithms - https://machinelearningmastery.com/clustering-algorithms-with-python/<br />
-SKlearn Clustering Documentation - https://scikit-learn.org/stable/modules/clustering.html<br />
-Kmeans Clustering Intro - https://www.geeksforgeeks.org/k-means-clustering-introduction/<br />
-Optimal Value in K - https://www.geeksforgeeks.org/ml-determine-the-optimal-value-of-k-in-k-means-clustering/?ref=rp<br />
-Elbow Curve - https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/<br />
-SKLearn Preprocessing = https://scikit-learn.org/stable/modules/preprocessing.html<br />
-Data Normalization - https://towardsdatascience.com/data-normalization-with-pandas-and-scikit-learn-7c1cc6ed6475<br />
-PCA & Parallel Coordinates Plot - https://openclassrooms.com/en/courses/5869986-perform-an-exploratory-data-analysis/6177861-analyze-the-results-of-a-k-means-clustering
+#### Kaggle datasets pulled from GHO (Global Health Observatory) and WHO (World Health Organization), GWP (Gallup World Poll):
+* [World Alcohol Consumption](https://www.kaggle.com/codebreaker619/alcohol-comsumption-around-the-world)<br />
+* [2020 World Happiness](https://www.kaggle.com/londeen/world-happiness-report-2020)<br />
+* [Life Expectancy](https://www.kaggle.com/augustus0498/life-expectancy-who)<br />
+#### Websites used for tutorials or method research
+* [10 Clustering Algorithms](https://machinelearningmastery.com/clustering-algorithms-with-python/)<br />
+* [SKlearn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)<br />
+* [Kmeans Clustering Intro](https://www.geeksforgeeks.org/k-means-clustering-introduction/)<br />
+* [Optimal Value in K](https://www.geeksforgeeks.org/ml-determine-the-optimal-value-of-k-in-k-means-clustering/?ref=rp)<br />
+* [Elbow Curve](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)<br />
+* [SKLearn Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)<br />
+* [Data Normalization](https://towardsdatascience.com/data-normalization-with-pandas-and-scikit-learn-7c1cc6ed6475)<br />
+* [PCA & Parallel Coordinates Plot](https://openclassrooms.com/en/courses/5869986-perform-an-exploratory-data-analysis/6177861-analyze-the-results-of-a-k-means-clustering)
 
 ## Tasks:
 Question
