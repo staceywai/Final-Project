@@ -1,4 +1,5 @@
-# Final-Project
+# Final Project: Predicting Happiness
+#### Can certain factors be used to predict a countries happiness score?
 Can factors x,y,z related to alcohol consumption predict happiness?
     happiness = output column, exclude from clustering
     List of variables 
