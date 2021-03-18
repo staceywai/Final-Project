@@ -1,11 +1,6 @@
 # Final Project: Predicting Happiness
 #### Can certain factors be used to predict a country's happiness score?
 Can factors x,y,z related to alcohol consumption predict happiness?
-    happiness = output column, exclude from clustering
-    List of variables 
-    What is the most predictive variable?
-    Linear regression
-    Clusters would help define subgroups that are potentially related to happiness
 
 ## Data Sources:
 #### Kaggle datasets used to build our dataframes:
