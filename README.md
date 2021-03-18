@@ -1,6 +1,6 @@
 # Final Project: Predicting Happiness
 #### Can certain factors be used to predict a country's happiness score?
-Can factors x,y,z related to alcohol consumption predict happiness?
+Can we use data on health, alcohol consumption, and other social factors to predict happiness?
 
 ## Data Sources:
 #### Kaggle datasets used to build our dataframes:
