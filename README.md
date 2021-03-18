@@ -22,30 +22,14 @@ Can factors x,y,z related to alcohol consumption predict happiness?
 * [Data Normalization](https://towardsdatascience.com/data-normalization-with-pandas-and-scikit-learn-7c1cc6ed6475)<br />
 * [PCA & Parallel Coordinates Plot](https://openclassrooms.com/en/courses/5869986-perform-an-exploratory-data-analysis/6177861-analyze-the-results-of-a-k-means-clustering)
 
-## Tasks:
-Question
+## Files
+#### Jupyter Notebooks:
+* combine_data.ipynb - Combines and cleans data
+* data normalization.ipynb - Uses sklearn to create a normalized data set
+* ClusterAnalysis.ipynb - Contains all work related to our cluster analysis
+* multiple linear regression.ipynb - Contains linear regression and coefficient analysis
 
-Combine data sets - Jupyter notebook, join by country
-Understand what the variables are
-Linear regression model
-    compare 2 columns, would happiness always be one of the comparison columns?
-    slope tells you how related 2 columns are
-Cluster analysis - comparing any 2 columns together to see if there is correlation by grouping
-    compare 2 columns - form clusters, then look at happiness
-
-Hypothesis
-
-Conclusions...
-Visualizations
-
-## Next Steps:
-
-1) Normalize Data
-2) Run it through the correlation matrix
-3) Choose columns with correlation values > .5 or < -.5
-4) Run them through clustering
-5) Elbow method to choose number of clusters
-6) Color each data point by happiness score
-7) Determine trends in each cluster
-8) Multiple Linear Regression
+#### Other Files:
+* functions.py - Functions from [PCA & Parallel Coordinates Plot](https://openclassrooms.com/en/courses/5869986-perform-an-exploratory-data-analysis/6177861-analyze-the-results-of-a-k-means-clustering) to aid with Parallel Coordinates analysis
+* Final Project.pptx - Our final PowerPoint
 
